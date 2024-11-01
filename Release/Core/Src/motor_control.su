@@ -1,0 +1,4 @@
+../Core/Src/motor_control.c:10:5:GetEncoderPosition	8	static
+../Core/Src/motor_control.c:17:10:ConvertAngleToSteps	8	static
+../Core/Src/motor_control.c:31:6:StepMotor_Pulse	24	static
+../Core/Src/motor_control.c:56:6:ProcessMotorCommand	32	static
